@@ -27,6 +27,14 @@ cd your-project
 
 npm install
 
+npm install react-hook-form
+
+npm i @vkontakte/vkui
+
+npm i yup
+
+npm install @hookform/resolvers
+
 ### Запустите проект:
 
 npm start
@@ -35,14 +43,10 @@ npm start
 
 ## Установленные пакеты
 
-В проекте используются следующие пакеты:
+### В проекте используются следующие пакеты:
 
 @vkontakte/vkui — официальный компонентный пакет для создания интерфейса в стиле ВКонтакте.
 
-@vkontakte/vk-bridge — пакет для взаимодействия с API ВКонтакте.
-
 react-hook-form и yup — библиотеки для работы с формами и валидации данных.
-
-react-query — библиотека для управления и кэширования асинхронных запросов в React-приложениях.
 
 typescript — добавление типизации в проект.
